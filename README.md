@@ -33,14 +33,14 @@ How to Run-
 Run the code
 
 Usage-
--Place any tilted PDF or image in the input folder.
--The script processes them and saves the corrected version in the output folder.
+1. Place any tilted PDF or image in the input folder.
+2. The script processes them and saves the corrected version in the output folder.
 
 Example-
-Input:
-  input/kyc_form.pdf
-  input/photo_upside_down.jpg
-Output:
-  output/kyc_form_corrected.pdf
-  output/photo_upside_down_corrected.jpg
+1. Input:
+     1. input/kyc_form.pdf
+     2. input/photo_upside_down.jpg
+2. Output:
+     1. output/kyc_form_corrected.pdf
+     2. output/photo_upside_down_corrected.jpg
 
