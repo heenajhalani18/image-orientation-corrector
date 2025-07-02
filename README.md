@@ -9,10 +9,10 @@ What It Does-
 
 Folder Structure-
 orientation_corrector/
-├── input/              # Place your tilted PDFs or images here
-├── output/             # Corrected files will be saved here
-├── orientation_corrector.py
-└── README.md
+  1. input/              # Place your tilted PDFs or images here
+  2. output/             # Corrected files will be saved here
+  3. orientation_corrector.py
+  4. README.md
 
 Tools & Libraries Used-
 1. Python 3.x
